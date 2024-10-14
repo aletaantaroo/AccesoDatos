@@ -1,0 +1,1818 @@
+﻿[
+{
+	"fecha": "2024-09",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/09/2024",
+	"entrada_en_vigor": "2024-09-17",
+	"a_distribuidores": 75.9079,
+	"a_consumidor_final_termino_variable": 90.7317,
+	"a_consumidor_final_termino_fijo": 1.59}
+,{
+	"fecha": "2024-08",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/08/2024",
+	"entrada_en_vigor": "2024-08-20",
+	"a_distribuidores": 73.393,
+	"a_consumidor_final_termino_variable": 88.2168,
+	"a_consumidor_final_termino_fijo": 1.59}
+,{
+	"fecha": "2024-07",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/07/2024",
+	"entrada_en_vigor": "2024-07-16",
+	"a_distribuidores": 73.6697,
+	"a_consumidor_final_termino_variable": 88.4935,
+	"a_consumidor_final_termino_fijo": 1.59}
+,{
+	"fecha": "2024-06",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/06/2024",
+	"entrada_en_vigor": "2024-06-18",
+	"a_distribuidores": 68.3254,
+	"a_consumidor_final_termino_variable": 83.1329,
+	"a_consumidor_final_termino_fijo": 1.59}
+,{
+	"fecha": "2024-05",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 14/05/2024",
+	"entrada_en_vigor": "2024-05-21",
+	"a_distribuidores": 69.5147,
+	"a_consumidor_final_termino_variable": 84.3222,
+	"a_consumidor_final_termino_fijo": 1.59}
+,{
+	"fecha": "2024-04",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 08/04/2024",
+	"entrada_en_vigor": "2024-04-16",
+	"a_distribuidores": 72.691,
+	"a_consumidor_final_termino_variable": 87.4985,
+	"a_consumidor_final_termino_fijo": 1.59}
+,{
+	"fecha": "2024-03",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/03/2024",
+	"entrada_en_vigor": "2024-03-19",
+	"a_distribuidores": 73.5758,
+	"a_consumidor_final_termino_variable": 88.3833,
+	"a_consumidor_final_termino_fijo": 1.59}
+,{
+	"fecha": "2024-02",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 14/02/2024",
+	"entrada_en_vigor": "2024-02-20",
+	"a_distribuidores": 71.62,
+	"a_consumidor_final_termino_variable": 86.4275,
+	"a_consumidor_final_termino_fijo": 1.59}
+,{
+	"fecha": "2024-01",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/01/2024",
+	"entrada_en_vigor": "2024-01-16",
+	"a_distribuidores": 71.9047,
+	"a_consumidor_final_termino_variable": 86.7122,
+	"a_consumidor_final_termino_fijo": 1.59}
+,{
+	"fecha": "2023-12",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/12/2023",
+	"entrada_en_vigor": "2023-12-19",
+	"a_distribuidores": 73.1482,
+	"a_consumidor_final_termino_variable": 87.9557,
+	"a_consumidor_final_termino_fijo": 1.59}
+,{
+	"fecha": "2023-11",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 13/11/2023",
+	"entrada_en_vigor": "2023-11-21",
+	"a_distribuidores": 76.7043,
+	"a_consumidor_final_termino_variable": 91.5118,
+	"a_consumidor_final_termino_fijo": 1.59}
+,{
+	"fecha": "2023-10",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/10/2023",
+	"entrada_en_vigor": "2023-10-17",
+	"a_distribuidores": 77.7273,
+	"a_consumidor_final_termino_variable": 92.5348,
+	"a_consumidor_final_termino_fijo": 1.59}
+,{
+	"fecha": "2023-09",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/09/2023",
+	"entrada_en_vigor": "2023-09-19",
+	"a_distribuidores": 72.8386,
+	"a_consumidor_final_termino_variable": 87.6461,
+	"a_consumidor_final_termino_fijo": 1.59}
+,{
+	"fecha": "2023-08",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/08/2023",
+	"entrada_en_vigor": "2023-08-15",
+	"a_distribuidores": 66.7676,
+	"a_consumidor_final_termino_variable": 81.5751,
+	"a_consumidor_final_termino_fijo": 1.59}
+,{
+	"fecha": "2023-07",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/07/2023",
+	"entrada_en_vigor": "2023-07-18",
+	"a_distribuidores": 59.9776,
+	"a_consumidor_final_termino_variable": 74.7851,
+	"a_consumidor_final_termino_fijo": 1.59}
+,{
+	"fecha": "2023-06",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 08/06/2023",
+	"entrada_en_vigor": "2023-06-20",
+	"a_distribuidores": 61.4909,
+	"a_consumidor_final_termino_variable": 76.3877,
+	"a_consumidor_final_termino_fijo": 1.6}
+,{
+	"fecha": "2023-05",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/05/2023",
+	"entrada_en_vigor": "2023-05-16",
+	"a_distribuidores": 67.8683,
+	"a_consumidor_final_termino_variable": 82.7651,
+	"a_consumidor_final_termino_fijo": 1.6}
+,{
+	"fecha": "2023-04",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/04/2023",
+	"entrada_en_vigor": "2023-04-18",
+	"a_distribuidores": 70.5171,
+	"a_consumidor_final_termino_variable": 85.4139,
+	"a_consumidor_final_termino_fijo": 1.6}
+,{
+	"fecha": "2023-03",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 13/03/2023",
+	"entrada_en_vigor": "2023-03-21",
+	"a_distribuidores": 84.7501,
+	"a_consumidor_final_termino_variable": 99.6469,
+	"a_consumidor_final_termino_fijo": 1.6}
+,{
+	"fecha": "2023-02",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/02/2023",
+	"entrada_en_vigor": "2023-02-21",
+	"a_distribuidores": 89.0354,
+	"a_consumidor_final_termino_variable": 103.9322,
+	"a_consumidor_final_termino_fijo": 1.6}
+,{
+	"fecha": "2023-01",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/01/2023",
+	"entrada_en_vigor": "2023-01-17",
+	"a_distribuidores": 77.8227,
+	"a_consumidor_final_termino_variable": 92.7195,
+	"a_consumidor_final_termino_fijo": 1.6}
+,{
+	"fecha": "2022-12",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/12/2022",
+	"entrada_en_vigor": "2022-12-20",
+	"a_distribuidores": 82.2221,
+	"a_consumidor_final_termino_variable": 97.1189,
+	"a_consumidor_final_termino_fijo": 1.6}
+,{
+	"fecha": "2022-11",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/11/2022",
+	"entrada_en_vigor": "2022-11-15",
+	"a_distribuidores": 82.7681,
+	"a_consumidor_final_termino_variable": 97.6649,
+	"a_consumidor_final_termino_fijo": 1.6}
+,{
+	"fecha": "2022-10",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/10/2022",
+	"entrada_en_vigor": "2022-10-18",
+	"a_distribuidores": 79.2422,
+	"a_consumidor_final_termino_variable": 94.139,
+	"a_consumidor_final_termino_fijo": 1.6}
+,{
+	"fecha": "2022-09",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/09/2022",
+	"entrada_en_vigor": "2022-09-20",
+	"a_distribuidores": 86.1891,
+	"a_consumidor_final_termino_variable": 101.0859,
+	"a_consumidor_final_termino_fijo": 1.6}
+,{
+	"fecha": "2022-08",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 05/08/2022",
+	"entrada_en_vigor": "2022-08-16",
+	"a_distribuidores": 87.8368,
+	"a_consumidor_final_termino_variable": 102.7336,
+	"a_consumidor_final_termino_fijo": 1.6}
+,{
+	"fecha": "2022-07",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/07/2022",
+	"entrada_en_vigor": "2022-07-19",
+	"a_distribuidores": 89.2243,
+	"a_consumidor_final_termino_variable": 104.1211,
+	"a_consumidor_final_termino_fijo": 1.6}
+,{
+	"fecha": "2022-06",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 08/06/2022",
+	"entrada_en_vigor": "2022-06-21",
+	"a_distribuidores": 94.3182,
+	"a_consumidor_final_termino_variable": 108.9416,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2022-05",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/05/2022",
+	"entrada_en_vigor": "2022-05-17",
+	"a_distribuidores": 92.7606,
+	"a_consumidor_final_termino_variable": 107.384,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2022-04",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/04/2022",
+	"entrada_en_vigor": "2022-04-19",
+	"a_distribuidores": 102.4346,
+	"a_consumidor_final_termino_variable": 117.058,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2022-03",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 08/03/2022",
+	"entrada_en_vigor": "2022-03-15",
+	"a_distribuidores": 95.8255,
+	"a_consumidor_final_termino_variable": 110.4489,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2022-02",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/02/2022",
+	"entrada_en_vigor": "2022-02-15",
+	"a_distribuidores": 86.7592,
+	"a_consumidor_final_termino_variable": 101.3826,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2022-01",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/01/2022",
+	"entrada_en_vigor": "2022-01-18",
+	"a_distribuidores": 84.7226,
+	"a_consumidor_final_termino_variable": 99.346,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2021-12",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/12/2021",
+	"entrada_en_vigor": "2021-12-21",
+	"a_distribuidores": 86.3575,
+	"a_consumidor_final_termino_variable": 100.9809,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2021-11",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/11/2021",
+	"entrada_en_vigor": "2021-11-16",
+	"a_distribuidores": 93.0403,
+	"a_consumidor_final_termino_variable": 107.6637,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2021-10",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 08/10/2021",
+	"entrada_en_vigor": "2021-10-19",
+	"a_distribuidores": 89.5492,
+	"a_consumidor_final_termino_variable": 104.1726,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2021-09",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 13/09/2021",
+	"entrada_en_vigor": "2021-09-21",
+	"a_distribuidores": 77.245,
+	"a_consumidor_final_termino_variable": 91.8684,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2021-08",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 04/08/2021",
+	"entrada_en_vigor": "2021-08-17",
+	"a_distribuidores": 75.3747,
+	"a_consumidor_final_termino_variable": 89.9981,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2021-07",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/07/2021",
+	"entrada_en_vigor": "2021-07-20",
+	"a_distribuidores": 72.0799,
+	"a_consumidor_final_termino_variable": 86.7033,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2021-06",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/06/2021",
+	"entrada_en_vigor": "2021-06-15",
+	"a_distribuidores": 63.2894,
+	"a_consumidor_final_termino_variable": 77.8328,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2021-05",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/05/2021",
+	"entrada_en_vigor": "2021-05-18",
+	"a_distribuidores": 61.3963,
+	"a_consumidor_final_termino_variable": 75.9397,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2021-04",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 13/04/2021",
+	"entrada_en_vigor": "2021-04-20",
+	"a_distribuidores": 64.3686,
+	"a_consumidor_final_termino_variable": 78.912,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2021-03",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 08/03/2021",
+	"entrada_en_vigor": "2021-03-16",
+	"a_distribuidores": 67.1111,
+	"a_consumidor_final_termino_variable": 81.6545,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2021-02",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 08/02/2021",
+	"entrada_en_vigor": "2021-02-16",
+	"a_distribuidores": 63.9182,
+	"a_consumidor_final_termino_variable": 78.4616,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2021-01",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/01/2021",
+	"entrada_en_vigor": "2021-01-19",
+	"a_distribuidores": 63.194,
+	"a_consumidor_final_termino_variable": 77.7374,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2020-12",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/12/2020",
+	"entrada_en_vigor": "2020-12-15",
+	"a_distribuidores": 55.1959,
+	"a_consumidor_final_termino_variable": 69.7393,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2020-11",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/11/2020",
+	"entrada_en_vigor": "2020-11-17",
+	"a_distribuidores": 53.9225,
+	"a_consumidor_final_termino_variable": 68.4659,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2020-10",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 13/10/2020",
+	"entrada_en_vigor": "2020-10-20",
+	"a_distribuidores": 51.8226,
+	"a_consumidor_final_termino_variable": 66.366,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2020-09",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/09/2020",
+	"entrada_en_vigor": "2020-09-15",
+	"a_distribuidores": 49.4344,
+	"a_consumidor_final_termino_variable": 63.9778,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2020-08",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/08/2020",
+	"entrada_en_vigor": "2020-08-18",
+	"a_distribuidores": 47.7016,
+	"a_consumidor_final_termino_variable": 62.245,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2020-07",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 08/07/2020",
+	"entrada_en_vigor": "2020-07-21",
+	"a_distribuidores": 46.8123,
+	"a_consumidor_final_termino_variable": 61.3557,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2020-06",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 04/06/2020",
+	"entrada_en_vigor": "2020-06-16",
+	"a_distribuidores": 46.0771,
+	"a_consumidor_final_termino_variable": 60.7113,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2020-05",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/05/2020",
+	"entrada_en_vigor": "2020-05-19",
+	"a_distribuidores": 42.1058,
+	"a_consumidor_final_termino_variable": 56.74,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2020-04",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/04/2020",
+	"entrada_en_vigor": "2020-04-21",
+	"a_distribuidores": 37.0003,
+	"a_consumidor_final_termino_variable": 51.6345,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2020-03",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/03/2020",
+	"entrada_en_vigor": "2020-03-17",
+	"a_distribuidores": 53.2685,
+	"a_consumidor_final_termino_variable": 67.9027,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2020-02",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/02/2020",
+	"entrada_en_vigor": "2020-02-18",
+	"a_distribuidores": 58.083,
+	"a_consumidor_final_termino_variable": 72.7172,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2020-01",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 14/01/2020",
+	"entrada_en_vigor": "2020-01-21",
+	"a_distribuidores": 65.7296,
+	"a_consumidor_final_termino_variable": 80.3638,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2019-12",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/12/2019",
+	"entrada_en_vigor": "2019-12-17",
+	"a_distribuidores": 61.4013,
+	"a_consumidor_final_termino_variable": 76.0355,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2019-11",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/11/2019",
+	"entrada_en_vigor": "2019-11-19",
+	"a_distribuidores": 57.8849,
+	"a_consumidor_final_termino_variable": 72.5191,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2019-10",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/10/2019",
+	"entrada_en_vigor": "2019-10-15",
+	"a_distribuidores": 54.2911,
+	"a_consumidor_final_termino_variable": 68.9253,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2019-09",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/09/2019",
+	"entrada_en_vigor": "2019-09-17",
+	"a_distribuidores": 49.5942,
+	"a_consumidor_final_termino_variable": 64.2284,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2019-08",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 08/08/2019",
+	"entrada_en_vigor": "2019-08-20",
+	"a_distribuidores": 49.1133,
+	"a_consumidor_final_termino_variable": 63.7475,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2019-07",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/07/2019",
+	"entrada_en_vigor": "2019-07-16",
+	"a_distribuidores": 53.3073,
+	"a_consumidor_final_termino_variable": 67.9415,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2019-06",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 07/06/2019",
+	"entrada_en_vigor": "2019-06-18",
+	"a_distribuidores": 57.0268,
+	"a_consumidor_final_termino_variable": 71.6289,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2019-05",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/05/2019",
+	"entrada_en_vigor": "2019-05-21",
+	"a_distribuidores": 61.8005,
+	"a_consumidor_final_termino_variable": 76.4026,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2019-04",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/04/2019",
+	"entrada_en_vigor": "2019-04-16",
+	"a_distribuidores": 60.1411,
+	"a_consumidor_final_termino_variable": 74.7432,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2019-03",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/03/2019",
+	"entrada_en_vigor": "2019-03-19",
+	"a_distribuidores": 60.6868,
+	"a_consumidor_final_termino_variable": 75.2889,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2019-02",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 07/02/2019",
+	"entrada_en_vigor": "2019-02-19",
+	"a_distribuidores": 58.4686,
+	"a_consumidor_final_termino_variable": 73.0707,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2019-01",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/01/2019",
+	"entrada_en_vigor": "2019-01-15",
+	"a_distribuidores": 56.2456,
+	"a_consumidor_final_termino_variable": 70.8477,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2018-12",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/12/2018",
+	"entrada_en_vigor": "2018-12-18",
+	"a_distribuidores": 56.5645,
+	"a_consumidor_final_termino_variable": 71.1666,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2018-11",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 08/11/2018",
+	"entrada_en_vigor": "2018-11-20",
+	"a_distribuidores": 67.7347,
+	"a_consumidor_final_termino_variable": 82.3368,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2018-10",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 08/10/2018",
+	"entrada_en_vigor": "2018-10-16",
+	"a_distribuidores": 76.7448,
+	"a_consumidor_final_termino_variable": 91.3469,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2018-09",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 13/09/2018",
+	"entrada_en_vigor": "2018-09-18",
+	"a_distribuidores": 73.7155,
+	"a_consumidor_final_termino_variable": 88.3176,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2018-08",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 07/08/2018",
+	"entrada_en_vigor": "2018-08-21",
+	"a_distribuidores": 70.3921,
+	"a_consumidor_final_termino_variable": 84.9942,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2018-07",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/07/2018",
+	"entrada_en_vigor": "2018-07-17",
+	"a_distribuidores": 68.1507,
+	"a_consumidor_final_termino_variable": 82.7528,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2018-06",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 15/06/2018",
+	"entrada_en_vigor": "2018-06-19",
+	"a_distribuidores": 67.4509,
+	"a_consumidor_final_termino_variable": 82.0297,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2018-05",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 07/05/2018",
+	"entrada_en_vigor": "2018-05-15",
+	"a_distribuidores": 60.7153,
+	"a_consumidor_final_termino_variable": 75.2941,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2018-04",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 06/04/2018",
+	"entrada_en_vigor": "2018-04-17",
+	"a_distribuidores": 58.0421,
+	"a_consumidor_final_termino_variable": 72.6209,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2018-03",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 06/03/2018",
+	"entrada_en_vigor": "2018-03-20",
+	"a_distribuidores": 57.4488,
+	"a_consumidor_final_termino_variable": 72.0276,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2018-02",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 06/02/2018",
+	"entrada_en_vigor": "2018-02-20",
+	"a_distribuidores": 61.5253,
+	"a_consumidor_final_termino_variable": 76.1041,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2018-01",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/01/2018",
+	"entrada_en_vigor": "2018-01-16",
+	"a_distribuidores": 68.4728,
+	"a_consumidor_final_termino_variable": 83.0516,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2017-12",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/12/2017",
+	"entrada_en_vigor": "2017-12-19",
+	"a_distribuidores": 69.6967,
+	"a_consumidor_final_termino_variable": 84.2755,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2017-11",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/11/2017",
+	"entrada_en_vigor": "2017-11-21",
+	"a_distribuidores": 67.4746,
+	"a_consumidor_final_termino_variable": 82.0534,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2017-10",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 06/10/2017",
+	"entrada_en_vigor": "2017-10-17",
+	"a_distribuidores": 66.4776,
+	"a_consumidor_final_termino_variable": 81.0564,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2017-09",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/09/2017",
+	"entrada_en_vigor": "2017-09-19",
+	"a_distribuidores": 62.3143,
+	"a_consumidor_final_termino_variable": 76.8931,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2017-08",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 07/08/2017",
+	"entrada_en_vigor": "2017-08-15",
+	"a_distribuidores": 57.4881,
+	"a_consumidor_final_termino_variable": 72.0669,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2017-07",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 06/07/2017",
+	"entrada_en_vigor": "2017-07-18",
+	"a_distribuidores": 50.9782,
+	"a_consumidor_final_termino_variable": 65.557,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2017-06",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/06/2017",
+	"entrada_en_vigor": "2017-06-20",
+	"a_distribuidores": 54.9068,
+	"a_consumidor_final_termino_variable": 69.4146,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2017-05",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/05/2017",
+	"entrada_en_vigor": "2017-05-16",
+	"a_distribuidores": 54.1371,
+	"a_consumidor_final_termino_variable": 68.6449,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2017-04",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/04/2017",
+	"entrada_en_vigor": "2017-04-18",
+	"a_distribuidores": 56.2942,
+	"a_consumidor_final_termino_variable": 70.802,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2017-03",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/03/2017",
+	"entrada_en_vigor": "2017-03-21",
+	"a_distribuidores": 62.5928,
+	"a_consumidor_final_termino_variable": 77.1006,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2017-02",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 14/02/2017",
+	"entrada_en_vigor": "2017-02-21",
+	"a_distribuidores": 65.5555,
+	"a_consumidor_final_termino_variable": 80.0633,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2017-01",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/01/2017",
+	"entrada_en_vigor": "2017-01-17",
+	"a_distribuidores": 61.2671,
+	"a_consumidor_final_termino_variable": 75.7749,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2016-12",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 13/12/2016",
+	"entrada_en_vigor": "2016-12-20",
+	"a_distribuidores": 55.3476,
+	"a_consumidor_final_termino_variable": 69.8554,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2016-11",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 07/11/2016",
+	"entrada_en_vigor": "2016-11-15",
+	"a_distribuidores": 55.1025,
+	"a_consumidor_final_termino_variable": 69.6103,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2016-10",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/10/2016",
+	"entrada_en_vigor": "2016-10-18",
+	"a_distribuidores": 50.8092,
+	"a_consumidor_final_termino_variable": 65.317,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2016-09",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/09/2016",
+	"entrada_en_vigor": "2016-09-20",
+	"a_distribuidores": 48.1808,
+	"a_consumidor_final_termino_variable": 62.6886,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2016-09",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 20/09/2016 (corrección de errores)",
+	"entrada_en_vigor": "2016-09-20",
+	"a_distribuidores": 48.1808,
+	"a_consumidor_final_termino_variable": 62.6886,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2016-08",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 03/08/2016",
+	"entrada_en_vigor": "2016-08-16",
+	"a_distribuidores": 45.7537,
+	"a_consumidor_final_termino_variable": 60.2615,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2016-07",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/07/2016",
+	"entrada_en_vigor": "2016-07-19",
+	"a_distribuidores": 48.852,
+	"a_consumidor_final_termino_variable": 63.3598,
+	"a_consumidor_final_termino_fijo": 1.56}
+,{
+	"fecha": "2016-06",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 13/06/2016",
+	"entrada_en_vigor": "2016-06-21",
+	"a_distribuidores": 48.8318,
+	"a_consumidor_final_termino_variable": 63.4227,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2016-05",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/05/2016",
+	"entrada_en_vigor": "2016-05-17",
+	"a_distribuidores": 47.5221,
+	"a_consumidor_final_termino_variable": 62.113,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2016-04",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/04/2016",
+	"entrada_en_vigor": "2016-04-19",
+	"a_distribuidores": 47.1673,
+	"a_consumidor_final_termino_variable": 61.7582,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2016-03",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 08/03/2016",
+	"entrada_en_vigor": "2016-03-15",
+	"a_distribuidores": 44.8895,
+	"a_consumidor_final_termino_variable": 59.4804,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2016-02",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/02/2016",
+	"entrada_en_vigor": "2016-02-16",
+	"a_distribuidores": 45.6396,
+	"a_consumidor_final_termino_variable": 60.2305,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2016-01",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 14/01/2016",
+	"entrada_en_vigor": "2016-01-19",
+	"a_distribuidores": 51.6351,
+	"a_consumidor_final_termino_variable": 66.226,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2015-12",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/12/2015",
+	"entrada_en_vigor": "2015-12-15",
+	"a_distribuidores": 57.7688,
+	"a_consumidor_final_termino_variable": 72.3597,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2015-12",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 14/12/2015 (corrección errores)",
+	"entrada_en_vigor": "2015-12-15",
+	"a_distribuidores": 57.7688,
+	"a_consumidor_final_termino_variable": 72.3597,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2015-11",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/11/2015",
+	"entrada_en_vigor": "2015-11-17",
+	"a_distribuidores": 53.4821,
+	"a_consumidor_final_termino_variable": 68.073,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2015-10",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 14/10/2015",
+	"entrada_en_vigor": "2015-10-20",
+	"a_distribuidores": 53.4239,
+	"a_consumidor_final_termino_variable": 68.0148,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2015-09",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/09/2015",
+	"entrada_en_vigor": "2015-09-15",
+	"a_distribuidores": 48.5071,
+	"a_consumidor_final_termino_variable": 63.098,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2015-08",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/08/2015",
+	"entrada_en_vigor": "2015-08-18",
+	"a_distribuidores": 52.3601,
+	"a_consumidor_final_termino_variable": 66.951,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2015-07",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 13/07/2015",
+	"entrada_en_vigor": "2015-07-21",
+	"a_distribuidores": 54.8342,
+	"a_consumidor_final_termino_variable": 69.4251,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2015-06",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/06/2015",
+	"entrada_en_vigor": "2015-06-16",
+	"a_distribuidores": 54.445,
+	"a_consumidor_final_termino_variable": 69.0915,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2015-05",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 13/05/2015",
+	"entrada_en_vigor": "2015-05-19",
+	"a_distribuidores": 60.5003,
+	"a_consumidor_final_termino_variable": 75.1468,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2015-04",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/04/2015",
+	"entrada_en_vigor": "2015-04-21",
+	"a_distribuidores": 61.9804,
+	"a_consumidor_final_termino_variable": 76.6269,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2015-03",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/03/2015",
+	"entrada_en_vigor": "2015-03-17",
+	"a_distribuidores": 61.291,
+	"a_consumidor_final_termino_variable": 75.9375,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2015-02",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/02/2015",
+	"entrada_en_vigor": "2015-02-17",
+	"a_distribuidores": 61.6984,
+	"a_consumidor_final_termino_variable": 76.3449,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2015-01",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 14/01/2015",
+	"entrada_en_vigor": "2015-01-20",
+	"a_distribuidores": 59.218,
+	"a_consumidor_final_termino_variable": 73.8645,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2014-12",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/12/2014",
+	"entrada_en_vigor": "2014-12-16",
+	"a_distribuidores": 70.7483,
+	"a_consumidor_final_termino_variable": 85.3948,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2014-11",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/11/2014",
+	"entrada_en_vigor": "2014-11-18",
+	"a_distribuidores": 75.3536,
+	"a_consumidor_final_termino_variable": 90.0001,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2014-10",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/10/2014",
+	"entrada_en_vigor": "2014-10-21",
+	"a_distribuidores": 85.1413,
+	"a_consumidor_final_termino_variable": 99.7878,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2014-09",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/09/2014",
+	"entrada_en_vigor": "2014-09-16",
+	"a_distribuidores": 83.7639,
+	"a_consumidor_final_termino_variable": 98.4104,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2014-08",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/08/2014",
+	"entrada_en_vigor": "2014-08-19",
+	"a_distribuidores": 87.312,
+	"a_consumidor_final_termino_variable": 101.9585,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2014-07",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/07/2014",
+	"entrada_en_vigor": "2014-07-15",
+	"a_distribuidores": 89.0008,
+	"a_consumidor_final_termino_variable": 103.6473,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2014-06",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/06/2014",
+	"entrada_en_vigor": "2014-06-17",
+	"a_distribuidores": 86.2481,
+	"a_consumidor_final_termino_variable": 100.8902,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2014-05",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 13/05/2014",
+	"entrada_en_vigor": "2014-05-20",
+	"a_distribuidores": 86.3125,
+	"a_consumidor_final_termino_variable": 100.9546,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2014-04",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 08/04/2014",
+	"entrada_en_vigor": "2014-04-15",
+	"a_distribuidores": 82.8194,
+	"a_consumidor_final_termino_variable": 97.4615,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2014-03",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/03/2014",
+	"entrada_en_vigor": "2014-03-18",
+	"a_distribuidores": 84.718,
+	"a_consumidor_final_termino_variable": 99.3601,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2014-02",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/02/2014",
+	"entrada_en_vigor": "2014-02-18",
+	"a_distribuidores": 92.3844,
+	"a_consumidor_final_termino_variable": 107.0265,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2014-01",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 15/01/2014",
+	"entrada_en_vigor": "2014-01-21",
+	"a_distribuidores": 96.7767,
+	"a_consumidor_final_termino_variable": 111.4188,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2013-12",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/12/2013",
+	"entrada_en_vigor": "2013-12-17",
+	"a_distribuidores": 104.6126,
+	"a_consumidor_final_termino_variable": 119.2547,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2013-11",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 07/11/2013",
+	"entrada_en_vigor": "2013-11-19",
+	"a_distribuidores": 88.4157,
+	"a_consumidor_final_termino_variable": 103.0578,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2013-10",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 04/10/2013",
+	"entrada_en_vigor": "2013-10-15",
+	"a_distribuidores": 86.8961,
+	"a_consumidor_final_termino_variable": 101.5382,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2013-09",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 06/09/2013",
+	"entrada_en_vigor": "2013-09-17",
+	"a_distribuidores": 91.5736,
+	"a_consumidor_final_termino_variable": 106.2157,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2013-08",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/08/2013",
+	"entrada_en_vigor": "2013-08-20",
+	"a_distribuidores": 89.7103,
+	"a_consumidor_final_termino_variable": 104.3524,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2013-07",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 08/07/2013",
+	"entrada_en_vigor": "2013-07-16",
+	"a_distribuidores": 86.381,
+	"a_consumidor_final_termino_variable": 101.0231,
+	"a_consumidor_final_termino_fijo": 1.58}
+,{
+	"fecha": "2013-06",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/06/2013",
+	"entrada_en_vigor": "2013-06-18",
+	"a_distribuidores": 81.6612,
+	"a_consumidor_final_termino_variable": 96.2145,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2013-05",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 16/05/2013",
+	"entrada_en_vigor": "2013-05-21",
+	"a_distribuidores": 78.3752,
+	"a_consumidor_final_termino_variable": 92.9285,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2013-04",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/04/2013",
+	"entrada_en_vigor": "2013-04-16",
+	"a_distribuidores": 85.1334,
+	"a_consumidor_final_termino_variable": 99.6867,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2013-03",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/03/2013",
+	"entrada_en_vigor": "2013-03-19",
+	"a_distribuidores": 90.1476,
+	"a_consumidor_final_termino_variable": 104.7009,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2013-02",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/02/2013",
+	"entrada_en_vigor": "2013-02-19",
+	"a_distribuidores": 91.5559,
+	"a_consumidor_final_termino_variable": 106.1092,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2013-01",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 08/01/2013",
+	"entrada_en_vigor": "2013-01-15",
+	"a_distribuidores": 95.3658,
+	"a_consumidor_final_termino_variable": 109.9191,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2012-12",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/12/2012",
+	"entrada_en_vigor": "2012-12-18",
+	"a_distribuidores": 103.1191,
+	"a_consumidor_final_termino_variable": 117.6724,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2012-11",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 07/11/2012",
+	"entrada_en_vigor": "2012-11-20",
+	"a_distribuidores": 106.5902,
+	"a_consumidor_final_termino_variable": 121.1435,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2012-10",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 05/10/2012",
+	"entrada_en_vigor": "2012-10-16",
+	"a_distribuidores": 103.1232,
+	"a_consumidor_final_termino_variable": 117.6765,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2012-09",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/09/2012",
+	"entrada_en_vigor": "2012-09-18",
+	"a_distribuidores": 104.2209,
+	"a_consumidor_final_termino_variable": 118.7742,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2012-08",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 07/08/2012",
+	"entrada_en_vigor": "2012-08-21",
+	"a_distribuidores": 90.0482,
+	"a_consumidor_final_termino_variable": 104.6015,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2012-07",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/07/2012",
+	"entrada_en_vigor": "2012-07-17",
+	"a_distribuidores": 74.3362,
+	"a_consumidor_final_termino_variable": 88.8895,
+	"a_consumidor_final_termino_fijo": 1.57}
+,{
+	"fecha": "2012-06",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/06/2012",
+	"entrada_en_vigor": "2012-06-19",
+	"a_distribuidores": 80.5454,
+	"a_consumidor_final_termino_variable": 94.912,
+	"a_consumidor_final_termino_fijo": 1.55}
+,{
+	"fecha": "2012-05",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 08/05/2012",
+	"entrada_en_vigor": "2012-05-15",
+	"a_distribuidores": 88.7334,
+	"a_consumidor_final_termino_variable": 103.1,
+	"a_consumidor_final_termino_fijo": 1.55}
+,{
+	"fecha": "2012-04",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/04/2012",
+	"entrada_en_vigor": "2012-04-17",
+	"a_distribuidores": 99.2375,
+	"a_consumidor_final_termino_variable": 113.6041,
+	"a_consumidor_final_termino_fijo": 1.55}
+,{
+	"fecha": "2012-03",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 14/03/2012",
+	"entrada_en_vigor": "2012-03-19",
+	"a_distribuidores": 112.0484,
+	"a_consumidor_final_termino_variable": 126.415,
+	"a_consumidor_final_termino_fijo": 1.55}
+,{
+	"fecha": "2012-02",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 16/02/2012",
+	"entrada_en_vigor": "2012-02-21",
+	"a_distribuidores": 99.8961,
+	"a_consumidor_final_termino_variable": 114.2627,
+	"a_consumidor_final_termino_fijo": 1.55}
+,{
+	"fecha": "2012-01",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de  04/01/2012",
+	"entrada_en_vigor": "2012-01-17",
+	"a_distribuidores": 89.1149,
+	"a_consumidor_final_termino_variable": 103.4815,
+	"a_consumidor_final_termino_fijo": 1.55}
+,{
+	"fecha": "2011-12",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 12/12/2011",
+	"entrada_en_vigor": "2011-12-20",
+	"a_distribuidores": 83.8631,
+	"a_consumidor_final_termino_variable": 98.2297,
+	"a_consumidor_final_termino_fijo": 1.55}
+,{
+	"fecha": "2011-11",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 10/11/2011",
+	"entrada_en_vigor": "2011-11-15",
+	"a_distribuidores": 83.1795,
+	"a_consumidor_final_termino_variable": 97.5461,
+	"a_consumidor_final_termino_fijo": 1.55}
+,{
+	"fecha": "2011-10",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 07/10/2011",
+	"entrada_en_vigor": "2011-10-18",
+	"a_distribuidores": 82.1277,
+	"a_consumidor_final_termino_variable": 96.4943,
+	"a_consumidor_final_termino_fijo": 1.55}
+,{
+	"fecha": "2011-09",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 05/09/2011",
+	"entrada_en_vigor": "2011-09-20",
+	"a_distribuidores": 83.6374,
+	"a_consumidor_final_termino_variable": 98.004,
+	"a_consumidor_final_termino_fijo": 1.55}
+,{
+	"fecha": "2011-08",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 05/08/2011",
+	"entrada_en_vigor": "2011-08-16",
+	"a_distribuidores": 85.9011,
+	"a_consumidor_final_termino_variable": 100.2677,
+	"a_consumidor_final_termino_fijo": 1.55}
+,{
+	"fecha": "2011-07",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 04/07/2011",
+	"entrada_en_vigor": "2011-07-19",
+	"a_distribuidores": 81.0531,
+	"a_consumidor_final_termino_variable": 95.4197,
+	"a_consumidor_final_termino_fijo": 1.55}
+,{
+	"fecha": "2011-06",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 03/06/2011",
+	"entrada_en_vigor": "2011-06-21",
+	"a_distribuidores": 84.6396,
+	"a_consumidor_final_termino_variable": 98.6258,
+	"a_consumidor_final_termino_fijo": 1.51}
+,{
+	"fecha": "2011-05",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 05/05/2011",
+	"entrada_en_vigor": "2011-05-17",
+	"a_distribuidores": 91.5191,
+	"a_consumidor_final_termino_variable": 105.5053,
+	"a_consumidor_final_termino_fijo": 1.51}
+,{
+	"fecha": "2011-04",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 06/04/2011",
+	"entrada_en_vigor": "2011-04-19",
+	"a_distribuidores": 89.0333,
+	"a_consumidor_final_termino_variable": 103.0195,
+	"a_consumidor_final_termino_fijo": 1.51}
+,{
+	"fecha": "2011-03",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 04/03/2011",
+	"entrada_en_vigor": "2011-03-15",
+	"a_distribuidores": 85.3413,
+	"a_consumidor_final_termino_variable": 99.3275,
+	"a_consumidor_final_termino_fijo": 1.51}
+,{
+	"fecha": "2011-02",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 04/02/2011",
+	"entrada_en_vigor": "2011-02-15",
+	"a_distribuidores": 85.8997,
+	"a_consumidor_final_termino_variable": 99.8859,
+	"a_consumidor_final_termino_fijo": 1.51}
+,{
+	"fecha": "2011-01",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 05/01/2011",
+	"entrada_en_vigor": "2011-01-18",
+	"a_distribuidores": 96.0457,
+	"a_consumidor_final_termino_variable": 110.0319,
+	"a_consumidor_final_termino_fijo": 1.51}
+,{
+	"fecha": "2010-12",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 07/12/2010",
+	"entrada_en_vigor": "2010-12-21",
+	"a_distribuidores": 92.4368,
+	"a_consumidor_final_termino_variable": 106.423,
+	"a_consumidor_final_termino_fijo": 1.51}
+,{
+	"fecha": "2010-11",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 05/11/2010",
+	"entrada_en_vigor": "2010-11-13",
+	"a_distribuidores": 79.9192,
+	"a_consumidor_final_termino_variable": 93.9054,
+	"a_consumidor_final_termino_fijo": 1.51}
+,{
+	"fecha": "2010-10",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 07/10/2010",
+	"entrada_en_vigor": "2010-10-19",
+	"a_distribuidores": 76.2548,
+	"a_consumidor_final_termino_variable": 90.241,
+	"a_consumidor_final_termino_fijo": 1.51}
+,{
+	"fecha": "2010-09",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 06/09/2010",
+	"entrada_en_vigor": "2010-09-21",
+	"a_distribuidores": 72.8607,
+	"a_consumidor_final_termino_variable": 86.8469,
+	"a_consumidor_final_termino_fijo": 1.51}
+,{
+	"fecha": "2010-08",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 04/08/2010",
+	"entrada_en_vigor": "2010-08-17",
+	"a_distribuidores": 70.6021,
+	"a_consumidor_final_termino_variable": 84.5883,
+	"a_consumidor_final_termino_fijo": 1.51}
+,{
+	"fecha": "2010-07",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 05/07/2010",
+	"entrada_en_vigor": "2010-07-20",
+	"a_distribuidores": 74.0345,
+	"a_consumidor_final_termino_variable": 88.0207,
+	"a_consumidor_final_termino_fijo": 1.51}
+,{
+	"fecha": "2010-06",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 04/06/2010",
+	"entrada_en_vigor": "2010-06-15",
+	"a_distribuidores": 72.6239,
+	"a_consumidor_final_termino_variable": 86.4198,
+	"a_consumidor_final_termino_fijo": 1.49}
+,{
+	"fecha": "2010-05",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 06/05/2010",
+	"entrada_en_vigor": "2010-05-18",
+	"a_distribuidores": 74.8782,
+	"a_consumidor_final_termino_variable": 88.6741,
+	"a_consumidor_final_termino_fijo": 1.49}
+,{
+	"fecha": "2010-04",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 07/04/2010",
+	"entrada_en_vigor": "2010-04-20",
+	"a_distribuidores": 72.849,
+	"a_consumidor_final_termino_variable": 86.6449,
+	"a_consumidor_final_termino_fijo": 1.49}
+,{
+	"fecha": "2010-03",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 03/03/2010",
+	"entrada_en_vigor": "2010-03-16",
+	"a_distribuidores": 73.6428,
+	"a_consumidor_final_termino_variable": 87.4387,
+	"a_consumidor_final_termino_fijo": 1.49}
+,{
+	"fecha": "2010-02",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 04/02/2010",
+	"entrada_en_vigor": "2010-02-16",
+	"a_distribuidores": 73.3139,
+	"a_consumidor_final_termino_variable": 87.1098,
+	"a_consumidor_final_termino_fijo": 1.49}
+,{
+	"fecha": "2010-01",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/01/2010",
+	"entrada_en_vigor": "2010-01-19",
+	"a_distribuidores": 70.6463,
+	"a_consumidor_final_termino_variable": 84.4422,
+	"a_consumidor_final_termino_fijo": 1.49}
+,{
+	"fecha": "2009-12",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 11/12/2009",
+	"entrada_en_vigor": "2009-12-14",
+	"a_distribuidores": 68.5461,
+	"a_consumidor_final_termino_variable": 82.342,
+	"a_consumidor_final_termino_fijo": 1.49}
+,{
+	"fecha": "2009-11",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 05/11/2009",
+	"entrada_en_vigor": "2009-11-17",
+	"a_distribuidores": 65.5875,
+	"a_consumidor_final_termino_variable": 79.3834,
+	"a_consumidor_final_termino_fijo": 1.49}
+,{
+	"fecha": "2009-10",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 07/10/2009",
+	"entrada_en_vigor": "2009-10-20",
+	"a_distribuidores": 60.5921,
+	"a_consumidor_final_termino_variable": 74.388,
+	"a_consumidor_final_termino_fijo": 1.49}
+,{
+	"fecha": "2009-09",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 02/09/2009",
+	"entrada_en_vigor": "2009-09-15",
+	"a_distribuidores": 61.1892,
+	"a_consumidor_final_termino_variable": 74.9851,
+	"a_consumidor_final_termino_fijo": 1.49}
+,{
+	"fecha": "2009-08",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 05/08/2009",
+	"entrada_en_vigor": "2009-08-18",
+	"a_distribuidores": 57.4546,
+	"a_consumidor_final_termino_variable": 71.2505,
+	"a_consumidor_final_termino_fijo": 1.49}
+,{
+	"fecha": "2009-07",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 02/07/2009",
+	"entrada_en_vigor": "2009-07-21",
+	"a_distribuidores": 56.779,
+	"a_consumidor_final_termino_variable": 70.5749,
+	"a_consumidor_final_termino_fijo": 1.49}
+,{
+	"fecha": "2009-06",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 03/06/2009",
+	"entrada_en_vigor": "2009-06-16",
+	"a_distribuidores": 51.7731,
+	"a_consumidor_final_termino_variable": 65.63,
+	"a_consumidor_final_termino_fijo": 1.5}
+,{
+	"fecha": "2009-05",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 05/05/2009",
+	"entrada_en_vigor": "2009-05-19",
+	"a_distribuidores": 48.974,
+	"a_consumidor_final_termino_variable": 62.8309,
+	"a_consumidor_final_termino_fijo": 1.5}
+,{
+	"fecha": "2009-04",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 03/04/2009",
+	"entrada_en_vigor": "2009-04-21",
+	"a_distribuidores": 50.8958,
+	"a_consumidor_final_termino_variable": 64.7527,
+	"a_consumidor_final_termino_fijo": 1.5}
+,{
+	"fecha": "2009-03",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 03/03/2009",
+	"entrada_en_vigor": "2009-03-17",
+	"a_distribuidores": 56.4448,
+	"a_consumidor_final_termino_variable": 70.3017,
+	"a_consumidor_final_termino_fijo": 1.5}
+,{
+	"fecha": "2009-02",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 04/02/2009",
+	"entrada_en_vigor": "2009-02-17",
+	"a_distribuidores": 60.4302,
+	"a_consumidor_final_termino_variable": 74.2871,
+	"a_consumidor_final_termino_fijo": 1.5}
+,{
+	"fecha": "2009-01",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 09/01/2009",
+	"entrada_en_vigor": "2009-01-20",
+	"a_distribuidores": 47.8643,
+	"a_consumidor_final_termino_variable": 61.7212,
+	"a_consumidor_final_termino_fijo": 1.5}
+,{
+	"fecha": "2008-12",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Resolución de 03/12/2008",
+	"entrada_en_vigor": "2008-12-16",
+	"a_distribuidores": 47.4484,
+	"a_consumidor_final_termino_variable": 61.3053,
+	"a_consumidor_final_termino_fijo": 1.5}
+,{
+	"fecha": "2008-11",
+	"formula_de_actualizacion": "Orden ITC/3292/2008",
+	"actualizacion_del_precio": "Orden ITC/3292/2008",
+	"entrada_en_vigor": "2008-11-18",
+	"a_distribuidores": 57.8801,
+	"a_consumidor_final_termino_variable": 71.737,
+	"a_consumidor_final_termino_fijo": 1.5}
+,{
+	"fecha": "2008-10",
+	"formula_de_actualizacion": "Orden ITC/1968/2007",
+	"actualizacion_del_precio": "Resolución de 03/10/2008",
+	"entrada_en_vigor": "2008-10-21",
+	"a_distribuidores": 74.4839,
+	"a_consumidor_final_termino_variable": 86.3528,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2008-09",
+	"formula_de_actualizacion": "Orden ITC/1968/2007",
+	"actualizacion_del_precio": "Resolución de 03/09/2008",
+	"entrada_en_vigor": "2008-09-16",
+	"a_distribuidores": 77.6498,
+	"a_consumidor_final_termino_variable": 89.5187,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2008-08",
+	"formula_de_actualizacion": "Orden ITC/1968/2007",
+	"actualizacion_del_precio": "Resolución de 11/08/2008",
+	"entrada_en_vigor": "2008-08-19",
+	"a_distribuidores": 77.8793,
+	"a_consumidor_final_termino_variable": 89.7482,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2008-07",
+	"formula_de_actualizacion": "Orden ITC/1968/2007",
+	"actualizacion_del_precio": "Resolución de 03/07/2008",
+	"entrada_en_vigor": "2008-07-15",
+	"a_distribuidores": 81.7366,
+	"a_consumidor_final_termino_variable": 93.6055,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2008-06",
+	"formula_de_actualizacion": "Orden ITC/1968/2007",
+	"actualizacion_del_precio": "Resolución de 04/06/2008",
+	"entrada_en_vigor": "2008-06-17",
+	"a_distribuidores": 79.4762,
+	"a_consumidor_final_termino_variable": 91.3451,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2008-05",
+	"formula_de_actualizacion": "Orden ITC/1968/2007",
+	"actualizacion_del_precio": "Resolución de 07/05/2008",
+	"entrada_en_vigor": "2008-05-20",
+	"a_distribuidores": 74.2498,
+	"a_consumidor_final_termino_variable": 86.1187,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2008-04",
+	"formula_de_actualizacion": "Orden ITC/1968/2007",
+	"actualizacion_del_precio": "Resolución de 03/04/2008",
+	"entrada_en_vigor": "2008-04-15",
+	"a_distribuidores": 71.0151,
+	"a_consumidor_final_termino_variable": 82.884,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2008-03",
+	"formula_de_actualizacion": "Orden ITC/1968/2007",
+	"actualizacion_del_precio": "Resolución de 13/03/2008",
+	"entrada_en_vigor": "2008-03-18",
+	"a_distribuidores": 74.8227,
+	"a_consumidor_final_termino_variable": 86.6916,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2008-02",
+	"formula_de_actualizacion": "Orden ITC/1968/2007",
+	"actualizacion_del_precio": "Resolución de 11/02/2008",
+	"entrada_en_vigor": "2008-02-19",
+	"a_distribuidores": 74.7556,
+	"a_consumidor_final_termino_variable": 86.6245,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2008-01",
+	"formula_de_actualizacion": "Orden ITC/1968/2007",
+	"actualizacion_del_precio": "Resolución de 08/01/2008",
+	"entrada_en_vigor": "2008-01-15",
+	"a_distribuidores": 80.1161,
+	"a_consumidor_final_termino_variable": 91.985,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2007-12",
+	"formula_de_actualizacion": "Orden ITC/1968/2007",
+	"actualizacion_del_precio": "Resolución de 10/12/2007",
+	"entrada_en_vigor": "2007-12-18",
+	"a_distribuidores": 80.0292,
+	"a_consumidor_final_termino_variable": 91.8981,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2007-11",
+	"formula_de_actualizacion": "Orden ITC/1968/2007",
+	"actualizacion_del_precio": "Resolución de 07/11/2007",
+	"entrada_en_vigor": "2007-11-20",
+	"a_distribuidores": 73.7985,
+	"a_consumidor_final_termino_variable": 85.6674,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2007-10",
+	"formula_de_actualizacion": "Orden ITC/1968/2007",
+	"actualizacion_del_precio": "Resolución de 04/10/2007",
+	"entrada_en_vigor": "2007-10-16",
+	"a_distribuidores": 69.4316,
+	"a_consumidor_final_termino_variable": 81.3005,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2007-09",
+	"formula_de_actualizacion": "Orden ITC/1968/2007",
+	"actualizacion_del_precio": "Resolución de 06/09/2007",
+	"entrada_en_vigor": "2007-09-18",
+	"a_distribuidores": 64.0407,
+	"a_consumidor_final_termino_variable": 75.9096,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2007-08",
+	"formula_de_actualizacion": "Orden ITC/1968/2007",
+	"actualizacion_del_precio": "Resolución de 03/08/2007",
+	"entrada_en_vigor": "2007-08-21",
+	"a_distribuidores": 64.5429,
+	"a_consumidor_final_termino_variable": 76.4118,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2007-07",
+	"formula_de_actualizacion": "Orden ITC/1968/2007",
+	"actualizacion_del_precio": "Resolución de 06/07/2007",
+	"entrada_en_vigor": "2007-07-17",
+	"a_distribuidores": 64.0607,
+	"a_consumidor_final_termino_variable": 75.6362,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2007-06",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 06/06/2007",
+	"entrada_en_vigor": "2007-06-19",
+	"a_distribuidores": 64.6992,
+	"a_consumidor_final_termino_variable": 76.2747,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2007-05",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 07/05/2007",
+	"entrada_en_vigor": "2007-05-15",
+	"a_distribuidores": 61.7613,
+	"a_consumidor_final_termino_variable": 73.3368,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2007-04",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 10/04/2007",
+	"entrada_en_vigor": "2007-04-17",
+	"a_distribuidores": 60.0832,
+	"a_consumidor_final_termino_variable": 71.6587,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2007-03",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 06/03/2007",
+	"entrada_en_vigor": "2007-03-20",
+	"a_distribuidores": 58.1504,
+	"a_consumidor_final_termino_variable": 69.7259,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2007-02",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 08/02/2007",
+	"entrada_en_vigor": "2007-02-20",
+	"a_distribuidores": 60.0828,
+	"a_consumidor_final_termino_variable": 71.6583,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2007-01",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 09/01/2007",
+	"entrada_en_vigor": "2007-01-16",
+	"a_distribuidores": 61.3883,
+	"a_consumidor_final_termino_variable": 72.9638,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2006-12",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 11/12/2006",
+	"entrada_en_vigor": "2006-12-19",
+	"a_distribuidores": 58.1106,
+	"a_consumidor_final_termino_variable": 69.6861,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2006-11",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 16/11/2006",
+	"entrada_en_vigor": "2006-11-21",
+	"a_distribuidores": 56.2925,
+	"a_consumidor_final_termino_variable": 67.868,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2006-10",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 10/10/2006",
+	"entrada_en_vigor": "2006-10-17",
+	"a_distribuidores": 59.2716,
+	"a_consumidor_final_termino_variable": 70.8471,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2006-09",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 12/09/2006",
+	"entrada_en_vigor": "2006-09-19",
+	"a_distribuidores": 64.2983,
+	"a_consumidor_final_termino_variable": 75.8738,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2006-08",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 09/08/2006",
+	"entrada_en_vigor": "2006-08-15",
+	"a_distribuidores": 65.4505,
+	"a_consumidor_final_termino_variable": 77.026,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2006-07",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 12/07/2006",
+	"entrada_en_vigor": "2006-07-18",
+	"a_distribuidores": 64.103,
+	"a_consumidor_final_termino_variable": 75.6785,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2006-06",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 14/06/2006",
+	"entrada_en_vigor": "2006-06-20",
+	"a_distribuidores": 59.7202,
+	"a_consumidor_final_termino_variable": 71.2957,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2006-05",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 04/05/2006",
+	"entrada_en_vigor": "2006-05-16",
+	"a_distribuidores": 60.3969,
+	"a_consumidor_final_termino_variable": 71.9724,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2006-04",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 06/04/2006",
+	"entrada_en_vigor": "2006-04-18",
+	"a_distribuidores": 58.7014,
+	"a_consumidor_final_termino_variable": 70.2769,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2006-03",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 17/03/2006",
+	"entrada_en_vigor": "2006-03-21",
+	"a_distribuidores": 64.6656,
+	"a_consumidor_final_termino_variable": 76.2411,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2006-02",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 16/02/2006",
+	"entrada_en_vigor": "2006-02-21",
+	"a_distribuidores": 71.455,
+	"a_consumidor_final_termino_variable": 83.0305,
+	"a_consumidor_final_termino_fijo": 1.29}
+,{
+	"fecha": "2006-01",
+	"formula_de_actualizacion": "Orden de 16/07/1998",
+	"actualizacion_del_precio": "Resolución de 12/01/2006",
+	"entrada_en_vigor": "2006-01-17",
+	"a_distribuidores": 70.0422,
+	"a_consumidor_final_termino_variable": 81.6177,
+	"a_consumidor_final_termino_fijo": 1.29}
+]

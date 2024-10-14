@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resultado>
+    <registro>
+        <trimestre>2013T4</trimestre>
+        <sentido_transaccion>Dentro de España</sentido_transaccion>
+        <ramas_actividad>Actividades anexas al transporte</ramas_actividad>
+        <codigo_armonizacion_segun_cnae_y_cnpa_>5221 + 5223</codigo_armonizacion_segun_cnae_y_cnpa_>
+        <evolucion_trimestral_del_volumen_de_negocio>2531590.61</evolucion_trimestral_del_volumen_de_negocio>
+    </registro>
+    <registro>
+        <trimestre>2013T4</trimestre>
+        <sentido_transaccion>Dentro de España</sentido_transaccion>
+        <ramas_actividad>Actividades cinematográficas y de vídeo</ramas_actividad>
+        <codigo_armonizacion_segun_cnae_y_cnpa_>5917 + 7722</codigo_armonizacion_segun_cnae_y_cnpa_>
+        <evolucion_trimestral_del_volumen_de_negocio>14123176.03</evolucion_trimestral_del_volumen_de_negocio>
+    </registro>
+    <registro>
+        <trimestre>2013T4</trimestre>
+        <sentido_transaccion>Dentro de España</sentido_transaccion>
+        <ramas_actividad>Actividades deportivas y recreativas</ramas_actividad>
+        <codigo_armonizacion_segun_cnae_y_cnpa_>93</codigo_armonizacion_segun_cnae_y_cnpa_>
+        <evolucion_trimestral_del_volumen_de_negocio>13455701.53</evolucion_trimestral_del_volumen_de_negocio>
+    </registro>
+</resultado>
