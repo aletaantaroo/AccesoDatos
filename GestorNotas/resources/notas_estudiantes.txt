@@ -1,0 +1,5 @@
+Alejandro,9.0
+Alex , 9.4
+Hola, 10.0
+Compañero, 7.9
+Prueba, 8.4
