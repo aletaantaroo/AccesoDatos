@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.sistema.controlador.EmpleadoController" style="-fx-padding: 10;">
+  <!-- Titulo en la parte superior -->
+  <top>
+    <Label text="Formulario Empleados" style="-fx-font-size: 20px; -fx-font-weight: bold;" />
+  </top>
+
+  <!-- Centro con formulario y tabla -->
+  <center>
+    <HBox spacing="20">
+      <!-- Formulario a la izquierda -->
+      <VBox spacing="10" alignment="CENTER_LEFT">
+        <GridPane hgap="10" vgap="10">
+          <Label text="Nombre:" GridPane.columnIndex="0" GridPane.rowIndex="0"/>
+          <TextField fx:id="nombreField" maxWidth="200" GridPane.columnIndex="1" GridPane.rowIndex="0"/>
+
+          <Label text="Apellidos:" GridPane.columnIndex="0" GridPane.rowIndex="1"/>
+          <TextField fx:id="apellidosField" maxWidth="200" GridPane.columnIndex="1" GridPane.rowIndex="1"/>
+
+          <Label text="Departamento:" GridPane.columnIndex="0" GridPane.rowIndex="2"/>
+          <TextField fx:id="departamentoField" maxWidth="200" GridPane.columnIndex="1" GridPane.rowIndex="2"/>
+
+          <Label text="Sueldo:" GridPane.columnIndex="0" GridPane.rowIndex="3"/>
+          <TextField fx:id="sueldoField" maxWidth="200" GridPane.columnIndex="1" GridPane.rowIndex="3"/>
+        </GridPane>
+      </VBox>
+
+      <!-- Tabla a la derecha -->
+      <TableView fx:id="tablaEmpleados" prefHeight="300" prefWidth="500">
+        <columns>
+          <TableColumn fx:id="colId" text="ID" prefWidth="100" />
+          <TableColumn fx:id="colNombre" text="Nombre" prefWidth="100" />
+          <TableColumn fx:id="colApellidos" text="Apellidos" prefWidth="100" />
+          <TableColumn fx:id="colDepartamento" text="Departamento" prefWidth="100" />
+          <TableColumn fx:id="colSueldo" text="Sueldo" prefWidth="100" />
+        </columns>
+      </TableView>
+    </HBox>
+  </center>
+
+  <!-- Botones en la parte inferior -->
+  <bottom>
+    <VBox spacing="20" alignment="CENTER">
+      <!-- Botones de insertar, actualizar y borrar -->
+      <HBox spacing="10">
+        <Button text="Insertar" onAction="#insertarEmpleado" />
+        <Button text="Actualizar" onAction="#actualizarEmpleado" />
+        <Button text="Borrar" onAction="#borrarEmpleado" />
+      </HBox>
+
+      <!-- Botones de exportar e importar -->
+      <HBox spacing="10">
+        <Button text="Exportar XML" onAction="#exportarXML" />
+        <Button text="Importar XML" onAction="#importarXML" />
+        <Button text="Exportar JSON" onAction="#exportarJSON" />
+        <Button text="Importar JSON" onAction="#importarJSON" />
+      </HBox>
+    </VBox>
+  </bottom>
+</BorderPane>
+
+
+

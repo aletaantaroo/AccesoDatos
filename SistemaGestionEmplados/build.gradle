@@ -1,0 +1,91 @@
+plugins {
+  // Plugins necesarios para la compilación y configuración del proyecto
+  id 'java' // Soporte para proyectos Java
+  id 'application' // Configuración para la ejecución como aplicación
+  id 'org.javamodularity.moduleplugin' version '1.8.12' // Soporte para módulos Java
+  id 'org.openjfx.javafxplugin' version '0.0.13' // Soporte para JavaFX
+  id 'org.beryx.jlink' version '2.25.0' // Herramienta para crear imágenes personalizadas de JRE
+  id 'org.jetbrains.kotlin.jvm' version '1.8.0' // Soporte para Kotlin
+}
+
+group 'com' // Definición del grupo del proyecto
+version '1.0-SNAPSHOT' // Versión del proyecto
+
+repositories {
+  mavenCentral() // Repositorio central de Maven para dependencias
+}
+
+ext {
+  junitVersion = '5.10.0' // Versión de JUnit para pruebas
+}
+
+// Configuración de compatibilidad con la versión de Java
+sourceCompatibility = '21'
+targetCompatibility = '21'
+
+tasks.withType(JavaCompile) {
+  options.encoding = 'UTF-8' // Establecer la codificación para los archivos fuente
+}
+
+application {
+  // Especifica el módulo y la clase principal para ejecutar la aplicación
+  mainModule = 'com.sistemagestionemplados'
+  mainClass = 'com.sistema.MainApp'
+}
+
+javafx {
+  // Configuración para JavaFX
+  version = '21'
+  modules = ['javafx.controls', 'javafx.fxml', 'javafx.web', 'javafx.swing', 'javafx.media']
+}
+
+dependencies {
+  // Dependencias de Kotlin
+  implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.8.0' // Biblioteca estándar de Kotlin
+
+  // Dependencias de JavaFX
+  implementation 'org.openjfx:javafx-controls:21' // Componentes UI de JavaFX
+  implementation 'org.openjfx:javafx-fxml:21' // Soporte para archivos FXML
+  implementation 'org.openjfx:javafx-web:21' // Soporte para contenido web
+  implementation 'org.openjfx:javafx-media:21' // Soporte para medios como audio y video
+  implementation 'org.openjfx:javafx-swing:21' // Integración con Swing
+
+  // Librerías adicionales para mejorar la funcionalidad
+  implementation('org.controlsfx:controlsfx:11.1.2') // Controles adicionales para JavaFX
+  implementation('com.dlsc.formsfx:formsfx-core:11.6.0') {
+    exclude(group: 'org.openjfx') // Excluye dependencias redundantes de JavaFX
+  }
+  implementation('net.synedra:validatorfx:0.4.0') {
+    exclude(group: 'org.openjfx') // Excluye dependencias redundantes de JavaFX
+  }
+  implementation 'org.kordamp.ikonli:ikonli-javafx:12.3.1' // Iconos personalizables
+  implementation 'org.kordamp.bootstrapfx:bootstrapfx-core:0.4.0' // Estilo Bootstrap para JavaFX
+  implementation('eu.hansolo:tilesfx:11.48') {
+    exclude(group: 'org.openjfx') // Excluye dependencias redundantes de JavaFX
+  }
+  implementation('com.github.almasb:fxgl:17.3') {
+    exclude(group: 'org.openjfx') // Excluye dependencias redundantes de JavaFX
+    exclude(group: 'org.jetbrains.kotlin') // Excluye dependencias redundantes de Kotlin
+  }
+
+  // Dependencias para pruebas
+  testImplementation "org.junit.jupiter:junit-jupiter-api:${junitVersion}" // API de JUnit 5
+  testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine:${junitVersion}" // Motor de ejecución de JUnit 5
+}
+
+test {
+  useJUnitPlatform() // Configuración para usar la plataforma JUnit 5
+}
+
+jlink {
+  // Configuración para generar una imagen JRE personalizada
+  imageZip = project.file("${buildDir}/distributions/app-${javafx.platform.classifier}.zip")
+  options = ['--strip-debug', '--compress', '2', '--no-header-files', '--no-man-pages'] // Optimización de la imagen
+  launcher {
+    name = 'app' // Nombre del lanzador de la aplicación
+  }
+}
+
+jlinkZip {
+  group = 'distribution' // Agrupa tareas relacionadas con distribución
+}

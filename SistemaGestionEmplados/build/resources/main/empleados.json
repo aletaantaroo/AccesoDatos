@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "apellidos": "Pérez",
+    "departamento": "Ventas",
+    "sueldo": 2500.50
+  },
+  {
+    "id": 2,
+    "nombre": "Ana",
+    "apellidos": "Gómez",
+    "departamento": "Marketing",
+    "sueldo": 3200.75
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos",
+    "apellidos": "López",
+    "departamento": "TI",
+    "sueldo": 2800.00
+  },
+  {
+    "id": 4,
+    "nombre": "Lucía",
+    "apellidos": "Martínez",
+    "departamento": "Recursos Humanos",
+    "sueldo": 2400.30
+  }
+]
